@@ -1,6 +1,6 @@
-# real_shopping_app
+# Shopping_App
 
-A new Flutter project.
+A flutter shopping app using state management and authentication with firebase Rest API
 
 ## Getting Started
 
